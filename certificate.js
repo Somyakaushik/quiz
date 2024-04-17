@@ -1,0 +1,4 @@
+
+function downloadCertificate() {
+    window.print();
+}
